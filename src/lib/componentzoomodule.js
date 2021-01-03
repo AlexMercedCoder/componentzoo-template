@@ -1,4 +1,8 @@
 ////////////////////////////
+// ComponentZoo by Alex Merced of AlexMercedCoder.com
+////////////////////////////
+
+////////////////////////////
 // getQueryHash
 ////////////////////////////
 
@@ -433,3 +437,4 @@ export const funComponent = (config) => {
 
     window.customElements.define(config.name, ThisComponent);
 };
+
